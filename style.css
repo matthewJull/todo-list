@@ -1,0 +1,18 @@
+.container {
+    font-family: 'Inter', sans-serif;
+}
+
+.background {
+    width: 634px;
+    height: 797px;
+    background-color: #e6e6e6;
+}
+
+.input-field {
+    display: inline-flex;
+}
+
+.tasks-field {
+    display: inline-flex;
+}
+
